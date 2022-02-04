@@ -1,0 +1,3 @@
+node_modules/
+lib/MainProcess/
+lib/RenderProcess/build/
