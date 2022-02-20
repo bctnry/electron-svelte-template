@@ -19,7 +19,7 @@
     "tslib": "^2.0.0",
     "@tsconfig/svelte": "^2.0.0"
   },
-  "name": "@bctnry/memphisclient",
+  "name": "@bctnry/electron-svelte-template",
   "description": "",
   "version": "0.1.0",
   "main": "lib/MainProcess/main.js",
@@ -35,12 +35,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MemphisHypermedia/MemphisClient.git"
+    "url": "git+https://github.com/bctnry/electron-svelte-template.git"
   },
   "author": "Sebastian Higgins",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/MemphisHypermedia/MemphisClient/issues"
+    "url": "https://github.com/bctnry/electron-svelte-template/issues"
   },
-  "homepage": "https://github.com/MemphisHypermedia/MemphisClient#readme"
+  "homepage": "https://github.com/bctnry/electron-svelte-template#readme"
 }
